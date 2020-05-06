@@ -1,2 +1,3 @@
-# hackerrank
-My solution is hackerrank
+# Hackerrank Solutions
+
+Cut the Tree
