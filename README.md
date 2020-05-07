@@ -10,3 +10,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Cut the Tree](https://github.com/santik/hackerrank/blob/master/src/cutthetree/Solution.java)
 * [Waiter](https://github.com/santik/hackerrank/blob/master/src/waiter/Solution.java)
 * [Find Maximum Index Product](https://github.com/santik/hackerrank/blob/master/src/findmaximumindexproduct/Solution.java)
+* [Prim's (MST) : Special Subtree](https://github.com/santik/hackerrank/blob/master/src/primsmstsub/Solution.java)
