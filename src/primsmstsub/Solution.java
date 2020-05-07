@@ -9,12 +9,11 @@ public class Solution {
     static class Path {
         public int from;
         public int to;
+        public int weight;
 
         public int getWeight() {
             return weight;
         }
-
-        public int weight;
 
         public Path(int from, int to, int weight) {
             this.from = from;
