@@ -13,3 +13,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Prim's (MST) : Special Subtree](https://github.com/santik/hackerrank/blob/master/src/primsmstsub/Solution.java)
 * [Breadth First Search: Shortest Reach](https://github.com/santik/hackerrank/blob/master/src/bfsshortreach/Solution.java)
 * [Almost Sorted](https://github.com/santik/hackerrank/blob/master/src/almostsorted/Solution.java)
+* [Bear and Steady Gene](https://github.com/santik/hackerrank/blob/master/src/bearandsteadygene/Solution.java)
