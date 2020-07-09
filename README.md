@@ -15,3 +15,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Almost Sorted](https://github.com/santik/hackerrank/blob/master/src/almostsorted/Solution.java)
 * [Bear and Steady Gene](https://github.com/santik/hackerrank/blob/master/src/bearandsteadygene/Solution.java)
 * [Gena Playing Hanoi](https://github.com/santik/hackerrank/blob/master/src/gena/Solution.java) _Fails some test with timeout._
+* [Queue using Two Stacks](https://github.com/santik/hackerrank/blob/master/src/queueusingtwostacks/Solution.java)
