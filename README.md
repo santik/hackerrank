@@ -17,3 +17,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Gena Playing Hanoi](https://github.com/santik/hackerrank/blob/master/src/gena/Solution.java) _Fails some test with timeout._
 * [Queue using Two Stacks](https://github.com/santik/hackerrank/blob/master/src/queueusingtwostacks/Solution.java)
 * [Is This a Binary Search Tree?](https://github.com/santik/hackerrank/blob/master/src/isbinarysearchtree/Solution.java)
+* [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
