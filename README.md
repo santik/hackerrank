@@ -18,3 +18,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Queue using Two Stacks](https://github.com/santik/hackerrank/blob/master/src/queueusingtwostacks/Solution.java)
 * [Is This a Binary Search Tree?](https://github.com/santik/hackerrank/blob/master/src/isbinarysearchtree/Solution.java)
 * [Minimum Distances](https://github.com/santik/hackerrank/blob/master/src/minimumdistances/Solution.java)
+* [Designer PDF Viewer](https://github.com/santik/hackerrank/blob/master/src/designerpdfviewer/Solution.java)
