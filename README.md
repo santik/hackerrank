@@ -23,3 +23,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [A Very Big Sum](https://github.com/santik/hackerrank/blob/master/src/averybigsum/Solution.java)
 * [Diagonal Difference](https://github.com/santik/hackerrank/blob/master/src/diagonaldifference/Solution.java)
 * [Staircase](https://github.com/santik/hackerrank/blob/master/src/staircase/Solution.java)
+* [Mini-Max Sum](https://github.com/santik/hackerrank/blob/master/src/minimaxsum/Solution.java)
