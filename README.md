@@ -21,3 +21,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Designer PDF Viewer](https://github.com/santik/hackerrank/blob/master/src/designerpdfviewer/Solution.java)
 * [Picking Numbers](https://github.com/santik/hackerrank/blob/master/src/pickingnumbers/Solution.java)
 * [A Very Big Sum](https://github.com/santik/hackerrank/blob/master/src/averybigsum/Solution.java)
+* [Diagonal Difference](https://github.com/santik/hackerrank/blob/master/src/diagonaldifference/Solution.java)
