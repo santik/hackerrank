@@ -24,3 +24,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Diagonal Difference](https://github.com/santik/hackerrank/blob/master/src/diagonaldifference/Solution.java)
 * [Staircase](https://github.com/santik/hackerrank/blob/master/src/staircase/Solution.java)
 * [Mini-Max Sum](https://github.com/santik/hackerrank/blob/master/src/minimaxsum/Solution.java)
+* [Minimum Swaps 2](https://github.com/santik/hackerrank/blob/master/src/minimumswaps2/Solution.java)
