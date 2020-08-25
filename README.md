@@ -25,3 +25,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Staircase](https://github.com/santik/hackerrank/blob/master/src/staircase/Solution.java)
 * [Mini-Max Sum](https://github.com/santik/hackerrank/blob/master/src/minimaxsum/Solution.java)
 * [Array Manipulation](https://github.com/santik/hackerrank/blob/master/src/crush/Solution.java)
+* [Subarray Sum Equals K](https://github.com/santik/hackerrank/blob/master/src/subarraysumequalsk/Solution.java)
