@@ -1,7 +1,7 @@
-# Hackerrank Solutions
+# Hackerrank & Leedcode Solutions
 
 My hackerrank username is [santik](https://www.hackerrank.com/santik)  
-I'm planning to add here solutions for hackerrank puzzles.  
+I'm planning to add here solutions for hackerrank and leedcode puzzles.  
 Not sure yet about old solutions, but will try to add everything new.
 
 
@@ -26,3 +26,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Mini-Max Sum](https://github.com/santik/hackerrank/blob/master/src/minimaxsum/Solution.java)
 * [Array Manipulation](https://github.com/santik/hackerrank/blob/master/src/crush/Solution.java)
 * [Subarray Sum Equals K](https://github.com/santik/hackerrank/blob/master/src/subarraysumequalsk/Solution.java)
+* [Subrectangle Queries](https://github.com/santik/hackerrank/blob/master/src/subrectanglequeries/SubrectangleQueries.java)
