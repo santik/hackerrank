@@ -27,3 +27,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Array Manipulation](https://github.com/santik/hackerrank/blob/master/src/crush/Solution.java)
 * [Subarray Sum Equals K](https://github.com/santik/hackerrank/blob/master/src/subarraysumequalsk/Solution.java)
 * [Subrectangle Queries](https://github.com/santik/hackerrank/blob/master/src/subrectanglequeries/SubrectangleQueries.java)
+* [Count Square Submatrices with All Ones](https://github.com/santik/hackerrank/blob/master/src/countsquaresubmatriceswithallones/Solution.java)
