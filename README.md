@@ -29,3 +29,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Subrectangle Queries](https://github.com/santik/hackerrank/blob/master/src/subrectanglequeries/SubrectangleQueries.java)
 * [Count Square Submatrices with All Ones](https://github.com/santik/hackerrank/blob/master/src/countsquaresubmatriceswithallones/Solution.java)
 * [Longest Substring Without Repeating Characters](https://github.com/santik/hackerrank/blob/master/src/longestsubstringwithoutrepeatingcharacters/Solution.java)
+* [Distant Barcodes](https://github.com/santik/hackerrank/blob/master/src/distantbarcodes/Solution.java)
