@@ -28,3 +28,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Subarray Sum Equals K](https://github.com/santik/hackerrank/blob/master/src/subarraysumequalsk/Solution.java)
 * [Subrectangle Queries](https://github.com/santik/hackerrank/blob/master/src/subrectanglequeries/SubrectangleQueries.java)
 * [Count Square Submatrices with All Ones](https://github.com/santik/hackerrank/blob/master/src/countsquaresubmatriceswithallones/Solution.java)
+* [Longest Substring Without Repeating Characters](https://github.com/santik/hackerrank/blob/master/src/longestsubstringwithoutrepeatingcharacters/Solution.java)
