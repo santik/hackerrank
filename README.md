@@ -31,3 +31,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Longest Substring Without Repeating Characters](https://github.com/santik/hackerrank/blob/master/src/longestsubstringwithoutrepeatingcharacters/Solution.java)
 * [Distant Barcodes](https://github.com/santik/hackerrank/blob/master/src/distantbarcodes/Solution.java)
 * [Kids With the Greatest Number of Candies](https://github.com/santik/hackerrank/blob/master/src/kidswiththegreatestnumberofcandies/Solution.java)
+* [Third Maximum Number](https://github.com/santik/hackerrank/blob/master/src/thirdmaximumnumber/Solution.java)
