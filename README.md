@@ -30,3 +30,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Count Square Submatrices with All Ones](https://github.com/santik/hackerrank/blob/master/src/countsquaresubmatriceswithallones/Solution.java)
 * [Longest Substring Without Repeating Characters](https://github.com/santik/hackerrank/blob/master/src/longestsubstringwithoutrepeatingcharacters/Solution.java)
 * [Distant Barcodes](https://github.com/santik/hackerrank/blob/master/src/distantbarcodes/Solution.java)
+* [Kids With the Greatest Number of Candies](https://github.com/santik/hackerrank/blob/master/src/kidswiththegreatestnumberofcandies/Solution.java)
