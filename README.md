@@ -32,3 +32,8 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Distant Barcodes](https://github.com/santik/hackerrank/blob/master/src/distantbarcodes/Solution.java)
 * [Kids With the Greatest Number of Candies](https://github.com/santik/hackerrank/blob/master/src/kidswiththegreatestnumberofcandies/Solution.java)
 * [Third Maximum Number](https://github.com/santik/hackerrank/blob/master/src/thirdmaximumnumber/Solution.java)
+
+###Solutions for https://adventofcode.com/2020/
+* [Day1](https://github.com/santik/hackerrank/blob/master/src/reportrepair/Solution.java)
+* [Day2](https://github.com/santik/hackerrank/blob/master/src/passwordphilosophy/Solution.java)
+* [Day3](https://github.com/santik/hackerrank/blob/master/src/toboggantrajectory/Solution.java)
