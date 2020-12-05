@@ -37,3 +37,5 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Day1](https://github.com/santik/hackerrank/blob/master/src/reportrepair/Solution.java)
 * [Day2](https://github.com/santik/hackerrank/blob/master/src/passwordphilosophy/Solution.java)
 * [Day3](https://github.com/santik/hackerrank/blob/master/src/toboggantrajectory/Solution.java)
+* [Day4](https://github.com/santik/hackerrank/blob/master/src/passportprocessing/Solution.java)
+* [Day5](https://github.com/santik/hackerrank/blob/master/src/binaryboarding/Solution.java)
