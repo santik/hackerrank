@@ -42,3 +42,4 @@ Not sure yet about old solutions, but will try to add everything new.
 * [Day6](https://github.com/santik/hackerrank/blob/master/src/customcustoms/Solution.java)
 * [Day7](https://github.com/santik/hackerrank/blob/master/src/handyhaversacks/Solution.java)
 * [Day8](https://github.com/santik/hackerrank/blob/master/src/handheldhalting/Solution.java)
+* [Day9](https://github.com/santik/hackerrank/blob/master/src/encodingerror/Solution.java)
